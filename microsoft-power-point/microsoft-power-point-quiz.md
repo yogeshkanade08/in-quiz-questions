@@ -166,3 +166,10 @@ Answers needed
     Reading view
     Slide Sorter view
     Presenter view
+
+#### Q22. What is the term used for the arrangement of elements on a slide, such as Title and Content?
+
+    scheme
+    theme
+    layout
+    design
